@@ -3,19 +3,19 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 @app.route('/Index')
-def home():
+def Index():
     return render_template('Index.html')
 
 @app.route('/Data/')
-def about():
+def Data():
     return render_template('Data.html')
 
 @app.route('/Graph/')
-def about():
+def Graph():
     return render_template('Graph.html')
 
 @app.route('/Map/')
-def about():
+def Map():
     return render_template('Map.html')
 
 if __name__ == '__main__':
