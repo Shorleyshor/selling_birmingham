@@ -6,7 +6,7 @@ app = Flask(__name__)
 def Index():
     return render_template('Index.html')
 
-@app.route('/Data/')
+@app.route('/')
 def Data():
     return render_template('Data.html')
 
