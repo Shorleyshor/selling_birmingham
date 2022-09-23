@@ -1,3 +1,4 @@
+Address,Property_Type,Latitude,Longitude,Bathroom,Bedroom,Size
 "Waddington Avenue, Great Barr, Birmingham",Semi-Detached,52.544395,-1.940354,5,5,
 "Suttons Drive, Great Barr, B43",Land,52.559566,-1.927841,,,
 "Land at Mary Vale Road/Franklin Way, Bournville, Birmingham, B30 2HP",,52.42634,-1.93486,,,
@@ -298,3 +299,573 @@ Alumrock,Detached,52.48683,-1.8306,4,4,"5,000 sq. ft."
 "Teazel Avenue, Birmingham",House,52.424571,-1.945185,4,4,
 "Monument Road, Edgbaston, Birmingham",Terraced,52.47309,-1.93076,5,5,"2,441 sq. ft."
 Belmont Row Birmingham B4 7RQ,Apartment,52.48393,-1.88201,2,2,773 sq. ft.
+"Newman Drive, Cofton Hackett, Birmingham",Detached,52.37862,-1.98585,4,4,
+"Suttons Drive, Great Barr, B43",Land,52.559566,-1.927841,,,
+"Land at Mary Vale Road/Franklin Way, Bournville, Birmingham, B30 2HP",,52.42634,-1.93486,,,
+"MIXED USE SITE WITH PLANNING FOR CONVERSION 47 APARTMENTS, Erdington, Birmingham, B23",,52.52244,-1.84093,,,
+"Bearwood Parade, Bearwood High Street, West Midlands",Studio,52.4731,-1.96904,,,
+"Wellington Road, Edgbaston",Detached,52.462935,-1.909706,6,6,
+"Kings Close, Kings Norton, Birmingham, West Midlands, B30",House,52.40808,-1.92499,,,
+"Bournbrook Road, Selly Oak, Birmingham, B29 7BU",House,52.44333,-1.92757,16,16,
+"Handsworth Wood Road, Handsworth Wood, Birmingham, B20 2DH",,52.516373,-1.925288,19,19,
+"Heeley Road, Birmingham",House,52.439765,-1.932093,20,20,
+"Harborne Road, Edgbaston",Semi-Detached,52.469913,-1.92736,6,6,"4,265 sq. ft."
+"Almshouses, 1-10 Church Road, Erdington, Birmingham B24",,52.520611,-1.835519,,,"2,442 sq. ft."
+"Orchard House, Truemans Heath Lane",Detached,52.39266,-1.86741,5,5,
+"Wellington Road, Edgbaston",Detached,52.46444,-1.90561,4,4,"3,432 sq. ft."
+"Hagley Road, Edgbaston, Birmingham, B17 8BJ",Detached,52.472496,-1.966464,10,10,
+"Woodbourne Road, Harborne, Birmingham, B17 8DD",Detached,52.470814,-1.957063,7,7,
+"Pebble Mill Road, Edgbaston",Detached,52.452486,-1.91311,6,6,
+"Hagley Road West, Harborne, Birmingham, B17 8AL",Detached,52.471294,-1.969748,7,7,
+"St. Martin''s Place, Birmingham, B15 1DT",Apartment,52.473548,-1.916461,7,7,
+"Concord House, Marshall Street, B1 1LR",Penthouse,52.473951,-1.903683,3,3,
+"Euan Close, Harborne, Birmingham, B17",Detached,52.469909,-1.955971,5,5,
+"Wake Green Road, Birmingham, West Midlands",Detached,52.435201,-1.856947,4,4,
+"Beaufort, Norfolk Road, Edgbaston, Birmingham, B15",Penthouse,52.46779,-1.943654,3,3,
+"Hagley Road, Edgbaston, Birmingham, West Midlands, B17 8BJ",Detached,52.472771,-1.966707,6,6,
+"Wake Green Road, Moseley, Birmingham, B13",Detached,52.44328,-1.876944,6,6,
+"Canterbury Road, BIRMINGHAM",Maisonette,52.51181,-1.89976,2,2,
+"Lordswood Road, Birmingham, B17",Detached,52.471343,-1.96848,6,6,
+"Beaufort, Norfolk Road, Edgbaston, Birmingham, B15",Detached,52.46779,-1.943654,4,4,
+"Priory Road, Birmingham, B5",Detached,52.45635,-1.91151,5,5,"2,685 sq. ft."
+"Hagley Road West, Birmingham, B17",Detached,52.46987,-1.97184,5,5,
+"Moorland Road, Edgbaston",Detached,52.47452,-1.946496,6,6,
+"Gilmorton Close, Harborne, Birmingham, B17 8QR",Detached,52.464108,-1.962187,4,4,
+"St Pauls House, 21 - 23 St. Pauls Square, Jewellery Quarter",Penthouse,52.48574,-1.90483,3,3,"1,985 sq. ft."
+Water Street,Penthouse,52.4852,-1.90291,3,3,"2,310 sq. ft."
+"1 - 4 Great Hampton Street, Birmingham, B18 6AQ",Apartment,52.48907,-1.90747,4,4,"2,300 sq. ft."
+"St Agnes Road, Moseley, Birmingham, B13",Detached,52.439031,-1.873135,5,5,
+"Beaufort, Norfolk Road, Edgbaston, Birmingham, B15",Apartment,52.46779,-1.943654,2,2,
+"Hamstead Hill, Handsworth Wood, Birmingham, B20 1BN",Detached,52.522282,-1.930642,4,4,
+"3 Retail Investments- High Street - £97,500 Rent, Erdington, Birmingham, B23",,52.522501,-1.840865,,,
+"Wake Green Road, Moseley",Detached,52.442821,-1.8746,8,8,
+"Wake Green Road, Birmingham B13 9PG",Detached,52.442101,-1.87635,8,8,
+19 Serpentine Road,Detached,52.44413,-1.92551,5,5,"2,859 sq. ft."
+"Knightlow Road , Harborne",Detached,52.468422,-1.964107,4,4,
+"Wythall, Birmingham",Detached,52.369244,-1.876585,4,4,
+"Viceroy House, Water Street, Birmingham",Apartment,52.4852,-1.90291,2,2,
+"School Road, Moseley, Birmingham, West Midlands, B13",Semi-Detached,52.441562,-1.885822,6,6,
+"Irving Street, Birmingham, B1",Studio,52.4728,-1.90176,,,
+"Aston Bury, Edgbaston",Detached,52.467464,-1.942783,5,5,
+Pershore Road,House of Multiple Occupation,52.43829,-1.91611,18,18,
+"Groveley Hall, Birmingham Road, Birmingham, B31 4UH",Detached,52.386837,-1.960108,4,4,
+"Pale Lane, Birmingham",End of Terrace,52.46951,-1.97243,3,3,
+"Moorcroft Road, Birmingham, West Midlands, B13",Detached,52.44726,-1.89755,4,4,
+"Serpentine Road, Selly Park, Birmingham",Detached,52.443591,-1.923805,5,5,"2,606 sq. ft."
+"Pershore Road, Edgbaston B5",Detached,52.45213,-1.91005,6,6,"3,714 sq. ft."
+"Westfield Road, Edgbaston, Birmingham",Detached,52.4704,-1.94946,5,5,"1,901 sq. ft."
+Water Street,Penthouse,52.4852,-1.90291,3,3,"1,925 sq. ft."
+"Sardon House, Edgbaston",Link Detached House,52.462546,-1.904249,4,4,"1,206 sq. ft."
+"Yardley Wood Road, Moseley, Bimingham, B13",Detached,52.441106,-1.872142,5,5,
+"Coppice Road, Birmingham",House,52.448364,-1.879794,7,7,
+"Bournbrook Road, Selly Oak, Birmingham, B29 7BU",House,52.44333,-1.92757,8,8,
+"Tanners Green Lane, Wythall, Birmingham, Worcestershire, B47",Detached,52.368896,-1.877422,4,4,"2,840 sq. ft."
+"Bournbrook Road, Selly Oak, Birmingham, B29 7BU",House,52.44333,-1.92757,8,8,
+"Englestede Close, Birmingham, B20 1BJ",Detached,52.520752,-1.928287,4,4,
+"Gravelly Hill, Erdington",Block of Apartments,52.511101,-1.853893,10,10,
+"Frederick Road, Edgbaston",Semi-Detached,52.469325,-1.917844,3,3,
+"Moorland Road, Edgbaston, Birmingham",Link Detached House,52.47444,-1.94666,6,6,"3,400 sq. ft."
+"Ryland Road, Edgbaston",Town House,52.467426,-1.908767,5,5,
+16 Wellington Road,Semi-Detached,52.464613,-1.905072,4,4,"2,282 sq. ft."
+"Harrisons Road, Edgbaston",Detached,52.459949,-1.936345,4,4,
+"Cambridge Road, Moseley, Birmingham, B13",Semi-Detached,52.437048,-1.885832,4,4,
+"Beaufort, Norfolk Road, Edgbaston, Birmingham, B15",Apartment,52.46779,-1.943654,3,3,
+"Wentworth Road, Harborne",Semi-Detached,52.461337,-1.957803,4,4,
+"Alben Works, 1+2 Legge Lane",Town House,52.4844,-1.91337,3,3,"1,903 sq. ft."
+"Ravenhurst Road, Harborne, Birmingham, B17 9SP",Semi-Detached,52.460827,-1.953941,4,4,
+"Bushwood Lane, West Midlands, B95",Barn Conversion,52.482899,-1.893461,4,4,
+"Birmingham Buy to Let Investment, Birmingham",Apartment,52.48367,-1.89261,3,3,
+"Quinton Road, Birmingham",House,52.447731,-1.959283,6,6,
+"Lee Crescent, Edgbaston, Birmingham, B15",Town House,52.469052,-1.909207,4,4,
+"Wellington Road, Edgbaston, Birmingham, B15",Semi-Detached,52.464202,-1.905131,3,3,"2,446 sq. ft."
+"Alben Works Legge Lane, Birmingham B1",Town House,52.484211,-1.913817,3,3,
+"Augustus Road, Edgbaston B15 3LT",Detached,52.46895,-1.9346,4,4,"2,233 sq. ft."
+"Harborne Park Road, Birmingham",House,52.453174,-1.95469,4,4,
+"Lake Drive, Tidbury Green",Detached,52.38582,-1.85655,4,4,
+"Lake Drive, Tidbury Green",Detached,52.38582,-1.85655,4,4,
+"38 St Pauls Square, Birmingham, B3 1QX",Apartment,52.48548,-1.90689,3,3,
+"Heeley Road, Birmingham",House,52.441242,-1.9342,8,8,
+"Oxford Road, Moseley, Birmingham, West Midlands, B13",Semi-Detached,52.443931,-1.883878,10,10,
+30 Kelmscott Road,Detached,52.466963,-1.964183,4,4,"1,953 sq. ft."
+"Water Street, Birmingham",Apartment,52.4852,-1.90291,3,3,"1,925 sq. ft."
+"Rotton Park Road, Birmingham",Detached,52.4757,-1.94504,4,4,
+"Mackenzie Road, Birmingham, B11",Detached,52.443105,-1.866234,7,7,
+"Dark Lane, Wythall",Detached,52.392828,-1.905466,4,4,"2,453 sq. ft."
+"Chester Road, Boldmere",Detached,52.537399,-1.837739,5,5,
+"Victoria Road, Stechford, Birmingham",Detached,52.48366,-1.81221,7,7,
+"Lea End Lane, Hopwood, Alvechurch, B48 7AX",Semi-Detached,52.378223,-1.946376,4,4,"2,691 sq. ft."
+"Selly Park Road, Selly Park, Birmingham, B29 7LH",Detached,52.442396,-1.922029,5,5,
+"Alben Works, 1+2 Legge Lane",Town House,52.4844,-1.91337,3,3,"1,656 sq. ft."
+"Lickey Square, Lickey, B45 8HA",Detached,52.371315,-2.016542,5,5,
+"Alben Works, Legge Lane, Birmingham B1",Town House,52.484211,-1.913817,3,3,
+"Lordswood Road, Harborne, Birmingham, B17 9BP",Semi-Detached,52.46425,-1.965528,4,4,
+"Bloomfield Court, Harris Drive, Great Barr, Birmingham",Ground Flat,52.540031,-1.92754,2,2,
+"King Edwards Wharf, Birmingham",Apartment,52.47847,-1.91795,3,3,
+"Cofton Church Lane, Cofton Hackett, Birmingham, Worcestershire, B45",Detached,52.372236,-1.992757,4,4,
+"Lea End Lane, Hopwood, Alvechurch",Character Property,52.375095,-1.938408,3,3,
+"Lea End Lane, Hopwood, Alvechurch",Character Property,52.375095,-1.938408,3,3,
+"Grimpits Lane, Birmingham",Detached,52.391265,-1.921708,4,4,
+"Vesey Road, Sutton Coldfield, West Midlands",Link Detached House,52.548114,-1.826414,6,6,
+"Knightlow Road, Harborne, Birmingham, B17 8QA",Detached,52.468282,-1.95644,4,4,
+"Houndsfield Lane, Birmingham, B47",Detached,52.385104,-1.873879,5,5,
+"Hollywood Drive, Hollywood",House,52.395942,-1.879107,5,5,
+"Portland Road, Birmingham, B16",Semi-Detached,52.47381,-1.94107,5,5,
+"1 - 4 Great Hampton Street, Birmingham, B18 6AQ",Apartment,52.48907,-1.90747,2,2,"1,506 sq. ft."
+"Goldieslie Road, Boldmere",Detached,52.55003,-1.82977,4,4,
+"Ethel Road, Harborne, Birmingham, B17 0EL",Terraced,52.456818,-1.950075,4,4,
+"Carisbrooke Road, Edgbaston, Birmingham",Detached,52.474689,-1.959504,6,6,
+"Yew Tree Road, Edgbaston",Semi-Detached,52.469909,-1.912825,5,5,
+"Development Opportunity Plot 1 and 2 at 134 Newton Road, B43 6BT",Land,52.54446,-1.942965,,,
+"Middleton Hall Road, Kings Norton, Birmingham, B30",Detached,52.415249,-1.936097,6,6,
+"Symphony Court, Birmingham, West Midlands, B16 8AD",House,52.477878,-1.916265,3,3,"1,689 sq. ft."
+"Stechford Road, Birmingham",Semi-Detached,52.495686,-1.805691,7,7,
+"Willow Road Bournville, Birmingham, B30",Penthouse,52.434386,-1.933517,3,3,"1,280 sq. ft."
+"Crosbie Road, Harborne, B17",House,52.460834,-1.960888,4,4,
+"Hazeley Close, Harborne, Birmingham",Detached,52.465007,-1.972381,4,4,
+"Portland Road, Birmingham",Semi-Detached,52.47381,-1.94107,5,5,
+"Gillhurst Road, Harborne, Birmingham, B17 8PE",Semi-Detached,52.466333,-1.955908,4,4,
+"Snow Hill Wharf, Shadwell Street, Birmingham, B4",Duplex,52.48412,-1.89585,3,3,"1,367 sq. ft."
+"Greenhill Road, Moseley, Birmingham, West Midlands, B13",Semi-Detached,52.439649,-1.882379,4,4,
+"St Paul''s Court, 23 St. Paul''s Square, Birmingham",Town House,52.485866,-1.905432,3,3,"1,324 sq. ft."
+"Belle Walk, Moseley",Detached,52.446498,-1.87267,7,7,
+"Phoenix Green, Edgbaston, Birmingham, B15 3NR",Detached,52.466582,-1.940751,4,4,
+"Yardley Wood Road, Moseley, Birmingham, B13",Detached,52.448885,-1.873094,4,4,
+"Park Hill Road, Harborne, Birmingham, B17 9HJ",Semi-Detached,52.462595,-1.950175,4,4,
+"Lonsdale Road, Harborne",House,52.459602,-1.957931,4,4,
+"Milford Road, Birmingham, B17 9RL",Semi-Detached,52.45723,-1.962357,6,6,
+"Holly Gardens, Birmingham, B20",Detached,52.523586,-1.932005,5,5,
+"Canal Wharf, 12 Waterfront Walk, Birmingham, West Midlands, B1",Flat,52.47541,-1.90765,2,2,
+"Newton Road, Great Barr, Birmingham",Detached,52.5447,-1.94094,5,5,
+"St Johns Wood, Rednal, Birmingham, B45 8DL",Detached,52.384434,-2.004657,5,5,
+"Warstone Lane, Birmingham, West Midlands B18 6NZ",House,52.48719,-1.915073,4,4,"1,685 sq. ft."
+"Deeley Close, Edgbaston B15",Detached,52.46651,-1.91237,4,4,
+"Chester Road, Castle Bromwich, Birmingham, B36",Detached,52.50554,-1.78294,4,4,
+"Newton Road, Great Barr, Birmingham, B43 6AA",Detached,52.545482,-1.937013,6,6,"4,420 sq. ft."
+"Hubert Road, Birmingham",House,52.441196,-1.932438,7,7,
+"Bristol Road, Edgbaston, B5",House,52.448184,-1.922086,6,6,
+"Dawlish Road, Birmingham",House,52.441867,-1.929655,8,8,
+"Keel Drive, Moseley, Birmingham, B13",Detached,52.437811,-1.856504,4,4,
+"Lordswood Road, Harborne",Detached,52.46096,-1.96331,4,4,"1,609 sq. ft."
+"Sherborne Lofts, Grosvenor Street West, B16 8HW",Duplex,52.476203,-1.916443,2,2,"1,684 sq. ft."
+"Knightlow Road, Harborne",Detached,52.468339,-1.961923,3,3,
+"Alcester Road, Portway, Birmingham, Warwickshire, B48 7JB",Semi-Detached,52.447025,-1.888072,5,5,
+"Lyncroft Road, Birmingham",End of Terrace,52.443603,-1.845499,3,3,
+"Serpentine Road, Selly Park, Birmingham, B29 7HU",Detached,52.44413,-1.92551,6,6,
+"Queensway House, 57 Livery Street, B3 1HA",Duplex,52.484912,-1.902043,3,3,"2,357 sq. ft."
+"Teazel Avenue, Birmingham",House,52.425079,-1.944777,5,5,
+"Lonsdale Road, Harborne, Birmingham",Semi-Detached,52.459201,-1.958851,4,4,
+"Blackthorn Close, Bournville, Birmingham, B30",Detached,52.42275,-1.95219,4,4,
+"Concord House, Birmingham",Apartment,52.47397,-1.90367,2,2,"2,070 sq. ft."
+"Sherborne Lofts, 33 Grosvenor Street West",Apartment,52.47676,-1.91692,2,2,"2,362 sq. ft."
+"Pavenham Drive, Edgbaston",Detached,52.451911,-1.911256,4,4,"2,096 sq. ft."
+"Silvermead Road, Sutton Coldfield, B73 5SR",Detached,52.54647,-1.832597,4,4,
+"Darnick Road, Boldmere",Detached,52.55438,-1.85733,5,5,
+"Melrose Avenue, Sutton Coldfield",Detached,52.551799,-1.848009,4,4,
+"Alcester Road, Hollywood, Birmingham",Detached,52.398659,-1.88215,4,4,
+"The Grange, Handsworth Wood",Detached,52.523471,-1.927817,5,5,
+"Greenfield Road, Harborne, Birmingham, B17 0EF",Terraced,52.457623,-1.948135,4,4,
+"Ingham Way, Harborne",Detached,52.467889,-1.971632,3,3,
+"Anthony Road, Birmingham",Semi-Detached,52.48721,-1.84592,5,5,
+"Wood Lane, Harborne, Birmingham",Link Detached House,52.461101,-1.96754,5,5,
+"Boldmere Road, Sutton Coldfield, West Midlands",Semi-Detached,52.543598,-1.8398,4,4,
+"Stonehouse Road, Sutton Coldfield, B73 6LP",Detached Bungalow,52.55193,-1.842227,5,5,
+"Snow Hill Wharf, Shadwell Street, Birmingham, B4",Duplex,52.48412,-1.89585,3,3,"1,367 sq. ft."
+"Snow Hill Wharf, Shadwell Street, Birmingham, B4",Duplex,52.48412,-1.89585,3,3,"1,388 sq. ft."
+"Eastbourne Avenue, Birmingham",Semi-Detached,52.495609,-1.809963,6,6,
+"New Street, Castle Bromwich, Birmingham",Detached,52.50419,-1.78295,4,4,
+"Mayland Road, Edgbaston",Land,52.478564,-1.952252,5,5,
+"Dawlish Road, Birmingham",House,52.444686,-1.931697,4,4,
+"Mayland Road, Edgbaston",Land,52.478564,-1.952252,5,5,
+"Sherborne Lofts, 33 Grosvenor Street West, B16 8HW",Apartment,52.476833,-1.916708,2,2,"2,067 sq. ft."
+"Dinmore Avenue, Bournville Village Trust, Northfield, Birmingham, B31",Detached,52.415588,-1.962082,4,4,
+"Wheelers Lane,Birmingham,B13 0SG",Semi-Detached,52.428814,-1.884594,4,4,"2,012 sq. ft."
+"City Centre, 2552 Sq Ft, Balcony Waterside Fully Furnished",Penthouse,52.476819,-1.916833,3,3,"2,552 sq. ft."
+"Sydenham Place TOWNHOUSE, Tenby Street, Jewellery Quarter, B1 3EE",Semi-Detached,52.486175,-1.913693,4,4,"1,815 sq. ft."
+"Sydenham Place, 26C Tenby Street , Jewellery Quarter",Town House,52.48575,-1.91351,3,3,"1,941 sq. ft."
+"Sydenham Place, Tenby Street, Jewellery Quarter, B1",Town House,52.486102,-1.914059,4,4,
+"Packhorse Lane, Near Wythall",Detached Bungalow,52.38955,-1.90224,3,3,
+"Priory House, Gooch Street North, Birmingham, B5",Penthouse,52.472018,-1.897175,3,3,
+"Britwell Road, Sutton Coldfield, B73",Detached,52.550022,-1.83687,3,3,
+"Margaret Road, Birmingham",Terraced,52.45664,-1.95139,5,5,
+Belmont Row Birmingham B4 7RQ,Apartment,52.48393,-1.88201,2,2,"1,154 sq. ft."
+"Alben Works, 1+2 Legge Lane",Town House,52.4844,-1.91337,3,3,"1,368 sq. ft."
+"Serpentine Road,Selly Park,Birmingham,B29 7HU",Detached,52.44413,-1.925307,4,4,
+"Welford Road, Sutton Coldfield",Detached,52.546925,-1.851017,4,4,
+"Knightlow Road, Harborne, Birmingham, B17 8QA",Detached,52.468321,-1.95659,3,3,
+"Gillott Road, Birmingham",Detached,52.47578,-1.949588,5,5,
+"Chesterwood Road, Birmingham, West Midlands, B13",Detached,52.424269,-1.884005,3,3,
+"School Road, Moseley, Birmingham, West Midlands, B13",Detached,52.440909,-1.886117,4,4,
+"Alben Works, Legge Lane, Birmingham B1",Town House,52.484211,-1.913817,3,3,
+"Northfield Road, Kings Norton, Birmingham, B30",Semi-Detached,52.417421,-1.933027,4,4,
+30 Ryland Road,Town House,52.468061,-1.907915,4,4,"2,098 sq. ft."
+"Mayfield Road, Sutton Coldfield, B73 5QL",Semi-Detached,52.55097,-1.833434,5,5,
+"Chester Road, Sutton Coldfield",Terraced,52.54529,-1.85323,2,2,
+"Church Lane, Handsworth, Birmingham",Semi-Detached,52.51354,-1.92702,7,7,
+"Blenheim Road, Birmingham",Semi-Detached,52.437881,-1.884096,4,4,
+"Chances Street, Edgbaston",Detached,52.482069,-1.955833,4,4,
+Queens College Chambers,Apartment,52.47873,-1.90366,2,2,"1,700 sq. ft."
+"Viceroy House, Jewellery Quarter, Birmingham City Centre",Apartment,52.485309,-1.902781,2,2,
+"Building Plot off Warren Lane, Lickey, B45 8ER",Plot,52.376396,-2.005959,,,
+"Alcester Road, Moseley, Birmingham",Detached,52.441535,-1.892475,4,4,
+"Court Oak Road, Harborne",Semi-Detached,52.459777,-1.961884,4,4,
+"Barnsley Road, Edgbaston",Semi-Detached,52.473382,-1.965607,6,6,
+"Station Road, Wythall, Birmingham",Detached Bungalow,52.37498,-1.876266,4,4,
+"Vivian Road, Harborne, Birmingham",Semi-Detached,52.4571,-1.95404,3,3,
+"Whitecrest, Birmingham, B43",Detached,52.547693,-1.925229,5,5,
+"Botteville Road, Birmingham, B27",Semi-Detached,52.44367,-1.82297,6,6,
+"Moor Pool Avenue, Birmingham, B17 9HL",Semi-Detached,52.462451,-1.951799,4,4,"1,588 sq. ft."
+"Petersham Place, Richmond Hill Road, Edgbaston B15 3RY",Ground Flat,52.460492,-1.935876,3,3,"1,707 sq. ft."
+"Moor Green Lane, Birmingham, B13",Detached,52.442369,-1.905457,4,4,
+"Pear Tree Drive, Great Barr",Detached,52.54601,-1.9541,4,4,
+"St. Johns Road, Harborne, B17",Terraced,52.460798,-1.94648,5,5,
+"Vesey Road, Sutton Coldfield, B73 5NR",Semi-Detached,52.54706,-1.829834,3,3,
+"Stirling Road, Birmingham",Terraced,52.47327,-1.934371,6,6,
+"Heathlands Crescent, Boldmere",Detached,52.546072,-1.841951,4,4,
+"Heathlands Crescent, Sutton Coldfield, B73 5EP",Detached,52.54609,-1.841951,4,4,
+"The Copperworks, Birmingham",Apartment,52.48602,-1.90969,4,4,"1,453 sq. ft."
+21 Melville Road,End of Terrace,52.473506,-1.949895,5,5,"1,924 sq. ft."
+"FiftySixty, JQ",Apartment,52.48628,-1.90703,2,2,
+"The Copperworks, 5 Sloane Street, Birmingham, B1 3DZ",Town House,52.483387,-1.913131,4,4,
+"Greenfield Road, Harborne, Birmingham, B17 0EP",Terraced,52.457264,-1.950333,3,3,
+"Sandhurst Avenue, Birmingham",Semi-Detached,52.4975,-1.81141,6,6,
+"Broad Lane,Birmingham,B14 5AL",Detached,52.415218,-1.890128,5,5,
+"Broughton Works, George Street",Apartment,52.48422,-1.90807,3,3,
+"Livingstone Road, Birmingham, B14",Semi-Detached,52.422962,-1.894837,4,4,
+"Darnick Road, Boldmere",Detached,52.55231,-1.85778,4,4,
+"Alcester Road, Moseley, Birmingham, B13",Terraced,52.453299,-1.886929,5,5,
+"Barnsley Road, Birmingham",Semi-Detached,52.474384,-1.965447,6,6,
+"Britwell Road, Sutton Coldfield",Semi-Detached,52.54995,-1.837u,4,4,
+"Mulberry Road, Bournville, Birmingham, B30",Semi-Detached,52.421494,-1.952594,5,5,
+"Royal Arch Apartments, Wharfside Street, Birmingham B1 1RB",Duplex,52.476222,-1.905407,3,3,
+"Redacre Road, Sutton Coldfield, B73",Detached,52.549373,-1.842683,4,4,
+"Waddington Avenue, Great Barr, Birmingham",Detached,52.5438,-1.93947,4,4,
+"Middlepark Drive, Birmingham, B31",House,52.424613,-1.959133,5,5,
+"Blenheim Road, Moseley, Birmingham, B13",Semi-Detached,52.438284,-1.887094,5,5,
+"Waddington Avenue, Great Barr",Detached,52.54384,-1.93921,4,4,
+"The Copperworks, Birmingham",Apartment,52.4853,-1.91764,3,3,"1,379 sq. ft."
+"St. Paul''s Chambers, 85 Caroline Street, St. Paul''s Square",Apartment,52.48562,-1.90734,3,3,"1,345 sq. ft."
+"Coleshill Meadow, Birmingham",Detached,52.50331,-1.81081,4,4,
+"Frederick Road, Sutton Coldfield, B73 5QW",Semi-Detached,52.55023,-1.83493,4,4,
+"Oakwood Road, Sutton Coldfield, B73 5EG",Semi-Detached,52.54846,-1.847612,4,4,
+"Beaufort Drive, Birmingham",Detached,52.4958,-1.81466,4,4,
+"Philip Victor Road, Birmingham",Link Detached House,52.51219,-1.92997,6,6,
+"Vernon Road, Edgbaston, Birmingham",Flat,52.47516,-1.9393,1,1,
+"Water Street, Birmingham",Apartment,52.4852,-1.90291,2,2,"1,200 sq. ft."
+"Wharfside Street, Birmingham",Apartment,52.47487,-1.90706,2,2,
+"Boldmere Road, Sutton Coldfield, B73 5LP",Detached,52.54027,-1.836973,4,4,
+"Stockwell Road, Handsworth",Detached,52.51561,-1.9388,5,5,
+"Reservoir Road, Cofton Hackett, B45 8PJ",Detached,52.376881,-1.995373,3,3,
+"Southam Road, Hall Green",Semi-Detached,52.43714,-1.84947,5,5,
+"Boldmere Road, Boldmere",Detached,52.54024,-1.83703,4,4,
+"Umberslade Road, Selly Oak, Birmingham",House,52.435577,-1.928258,7,7,
+"Queslett Road, Great Barr, Birmingham",Detached,52.545841,-1.924093,4,4,
+"Monksfield Avenue, Birmingham",Detached,52.54735,-1.94849,5,5,
+"Southam Road, Hall Green",Detached,52.432369,-1.853455,5,5,
+"Western Road, Sutton",Semi-Detached,52.546875,-1.834824,3,3,
+"Poppy Lane, Erdington, Birmingham",House,52.528415,-1.819977,5,5,
+"5 x SELF CONTAINED FLATS- Gillott Road, Birmingham, B16",Block of Apartments,52.479695,-1.945074,,,
+"The Whatecroft, Wentworth Road, Harborne, Birmingham, B17 9SY",Semi-Detached,52.46153,-1.95856,3,3,
+"Sheaf Lane, Birmingham",Detached Bungalow,52.45448,-1.78231,5,5,
+"Poundley Close, Birmingham",Detached,52.5058,-1.77676,4,4,
+"Hinstock Road, Birmingham, B20",Detached,52.511761,-1.927594,4,4,
+"Chester Road, Sutton Coldfield, West Midlands, B24",Detached,52.52789,-1.81261,4,4,
+"High Heath Close, Bournville, Birmingham, B30",Detached,52.421479,-1.944814,4,4,
+"33 Alcester Road, Moseley, Birmingham, B13 8AP",Semi-Detached,52.452263,-1.888015,6,6,
+"Walsall Road, Perry Barr, Birmingham",Semi-Detached,52.523834,-1.902781,5,5,
+"Heaton House, Camden Street, Birmingham B1",Town House,52.484382,-1.916344,3,3,
+"Southam Road, Hall Green",Semi-Detached,52.43714,-1.84947,4,4,
+"Bleak Hill Road, Erdington, Birmingham,B23 7EJ",Semi-Detached,52.526684,-1.862376,3,3,
+"Southam Road, Hall Green",Semi-Detached,52.43714,-1.84947,4,4,
+"Silvermead Road, Sutton Coldfield",House,52.546447,-1.833155,3,3,
+"Fitz Roy Avenue, Birmingham, B17",Bungalow,52.466119,-1.978687,4,4,
+"Pereira Road, Harborne",Semi-Detached,52.464675,-1.952784,4,4,"1,431 sq. ft."
+"Walsall Road, Perry Barr, Birmingham",Semi-Detached,52.52521,-1.90504,6,6,
+"Gilchrist Drive, Birmingham",Terraced,52.47012,-1.94034,4,4,
+"Ellesboro Road, Harborne",Semi-Detached,52.46681,-1.96227,3,3,"1,534 sq. ft."
+"Groveley Lane, Cofton Hackett, Birmingham",Detached,52.381931,-2.00074,4,4,"2,479 sq. ft."
+"Fitz Roy Avenue, Harborne B17",Detached Bungalow,52.46609,-1.97876,4,4,
+"Moor End Lane, Erdington, Birmingham",Semi-Detached,52.52437,-1.829102,5,5,
+"The Copperworks, Birmingham",Apartment,52.48602,-1.90969,3,3,"1,569 sq. ft."
+Alumrock,Detached,52.48683,-1.8306,4,4,"5,000 sq. ft."
+"Clarence Road, Moseley, Birmingham, B13",Terraced,52.439118,-1.881735,5,5,
+"Haunch Lane, Birmingham, West Midlands, B13",Semi-Detached,52.421895,-1.882868,6,6,
+"Fernwood Road, Sutton Coldfield, B73",Detached,52.543655,-1.84875,4,4,
+"Sheepcote Street, Birmingham, B16",Apartment,52.47595,-1.91398,2,2,812 sq. ft.
+"Barron Road, Northfield, Birmingham",Semi-Detached,52.411231,-1.958951,5,5,
+"Newton Road, Great Barr, Birmingham",Detached,52.543369,-1.953222,4,4,
+"Fairholme Road, Birmingham",Detached,52.50121,-1.82628,5,5,
+"Shelsley Drive. Moseley, Birmingham",Detached,52.440393,-1.873207,4,4,
+"Martineau Drive, Harborne, Birmingham",House,52.461647,-1.977112,4,4,
+"The Copperworks, Birmingham",Apartment,52.4853,-1.91764,3,3,"1,307 sq. ft."
+"Barnt Green Road, Cofton Hackett, B45 8PH",Semi-Detached,52.377247,-1.999093,3,3,
+"Morris Road, Birmingham, B8",Semi-Detached,52.495o,-1.82173u,5,5,"1,981 sq. ft."
+"Southam Road, Hall Green",Semi-Detached,52.43714,-1.84947,4,4,
+"Wyemanton Close, Great Barr, Birmingham",Detached,52.5447,-1.952739,3,3,
+"Teazel Avenue, Birmingham",House,52.424571,-1.945185,4,4,
+"Warren Lane, Lickey, Birmingham",Detached,52.376862,-2.006287,2,2,
+"Monument Road, Edgbaston, Birmingham",Terraced,52.47309,-1.93076,5,5,"2,441 sq. ft."
+"Middle Park Close, Bournville Village Trust, Selly Oak, Birmingham, B29",Semi-Detached,52.4343,-1.958062,3,3,
+"Middle Park Road, Bournville Village Trust, Selly Oak, Birmingham, B29",Semi-Detached,52.431995,-1.953962,3,3,
+Reliance Works,Apartment,52.48692,-1.90865,2,2,"1,302 sq. ft."
+"Walter Cobb Drive, Sutton Coldfield, B73 5QR",Semi-Detached,52.54715,-1.833584,7,7,
+Belmont Row Birmingham B4 7RQ,Apartment,52.48393,-1.88201,2,2,773 sq. ft.
+"Yardley Wood Road, Moseley, Birmingham, B13",Semi-Detached,52.449593,-1.873093,4,4,
+"South Road, Hockley, Birmingham, B18",Terraced,52.49681,-1.92012,6,6,
+"Kingsbury Road, Erdington, Birmingham",End of Terrace,52.51302,-1.85084,11,11,
+"Badge Works, Tenby Street, Birmingham, B1 3EE",Town House,52.48575,-1.91351,3,3,"1,218 sq. ft."
+"Comet Works, Birmingham City Centre",Apartment,52.487499,-1.89567,2,2,
+"Martyn Smith Close, Great Barr, Birmingham",Detached,52.547779,-1.95362,4,4,
+"Garden House, 190 Harborne Road, Edgbaston",Apartment,52.46293,-1.9377,2,2,"1,185 sq. ft."
+"East Works Drive, Cofton Hackett, B45 8GX",Detached,52.38231,-1.98688,4,4,
+"Lordswood Road, Birmingham, West Midlands, B17 9BT",Semi-Detached,52.4643,-1.96552,3,3,
+Reliance Works,Apartment,52.48692,-1.90865,2,2,"1,301 sq. ft."
+"The Barker, Shadwell Street, Birmingham",Apartment,52.48582,-1.899661,3,3,"1,101 sq. ft."
+Belmont Row Birmingham B4 7RQ,Apartment,52.48393,-1.88201,2,2,773 sq. ft.
+"The Bank Tower 2, Sheepcote Street, Birmingham, B15",Apartment,52.47568,-1.91383,3,3,
+"The Bank, Birmingham, B15",Flat,52.4759,-1.9138u,3,3,
+"Eastern Road, Sutton Coldfield",Semi-Detached,52.54788,-1.830697,4,4,
+"Rochester Road, Birmingham",End of Terrace,52.41458,-1.97026,3,3,
+"St. Martins Place, 169 Broad Street, Birmingham City Centre",Apartment,52.47182,-1.91325,3,3,"1,378 sq. ft."
+"Buxton Road, Sutton Coldfield",House,52.542797,-1.83401,5,5,
+"Middle Park Road, Birmingham, West Midlands, B29 4BE",Semi-Detached,52.430602,-1.95128,4,4,"1,800 sq. ft."
+"Broad Lane, Birmingham, B14",Detached,52.41453,-1.89116,4,4,
+2F Truemans Heath Lane,Bungalow,52.392351,-1.869766,3,3,
+2E Truemans Heath Lane,Bungalow,52.392351,-1.869766,3,3,
+"The Pressworks 40 - 44 Northwood Street, Birmingham",House,52.486618,-1.906591,2,2,
+"Wye Cliff Road, Handsworth, Birmingham, B20 3TB",Semi-Detached,52.50517,-1.9179,6,6,
+"Jockey Road, Sutton Coldfield, B73",Detached,52.548759,-1.853923,4,4,
+"Hubert Road, Selly Oak, Birmingham, B29 6ET",Terraced,52.44018,-1.93096,6,6,
+The Pressworks,Mews,52.487o,-1.90674u,2,2,"1,061 sq. ft."
+"Livingstone Road, Kings Heath Birmingham, B14",Semi-Detached,52.423656,-1.896298,4,4,
+"Clarence Road, Harborne, Birmingham, B17 9LA",End of Terrace,52.46173,-1.945613,3,3,
+"Slade Road, Birmingham, B23",Semi-Detached,52.51941,-1.8573,10,10,
+"Beeches Road, BIRMINGHAM",Detached Bungalow,52.53619,-1.91519,4,4,
+"St Martins Place, Broad Street, Birmingham, B15",Apartment,52.473574,-1.916829,3,3,"1,397 sq. ft."
+"Heeley Road, Selly Oak, Birmingham, B296EJ",Terraced,52.44009,-1.93243,6,6,
+"Orphanage Road, Birmingham",Detached,52.52747,-1.83148,4,4,
+"Jevons Road, Sutton Coldfield, B73 6QH",Detached,52.55395,-1.862444,4,4,
+"Ashmead Rise, Cofton Hackett, Birmingham, Worcestershire, B45",Detached,52.378678,-1.996899,5,5,
+"The Pressworks, Northwood Street, Jewellery Quarter, Birmingham",Mews,52.48566,-1.90866,2,2,
+"Lelant Grove, Birmingham, West Midlands, B17",Semi-Detached,52.457299,-1.96897,4,4,
+"Pickwick Grove, Birmingham",Detached,52.441593,-1.86277,6,6,"1,977 sq. ft."
+"Heaton House, Camden Street, Birmingham B1",Town House,52.484382,-1.916344,3,3,
+"Harts Green Road, Birmingham",Semi-Detached,52.45656,-1.96729,3,3,
+"Rosedene Drive, Handsworth Wood",Detached,52.51462,-1.93158,6,6,
+"South Loop Park, Port Loop, Birmingham",Town House,52.481491,-1.928903,4,4,
+"Devonshire Road, Handsworth Wood, Birmingham, B20 2PQ",Semi-Detached,52.51665,-1.92876,6,6,
+"Bunbury Road, Northfield, Birmingham, B31",Detached,52.415076,-1.954883,3,3,
+"Buxton Road, Sutton Coldfield, B73 5RS",Semi-Detached,52.54274,-1.834247,5,5,
+"New Hampton Lofts, 99 Branston Street",Apartment,52.489959,-1.909908,2,2,
+"Beaufort, Norfolk Road, Edgbaston, Birmingham, B15",Mews,52.46779,-1.943654,2,2,
+"Anderton Park Road, Birmingham, B13",,52.450216,-1.874233,5,5,
+"Groveley Lane, Cofton Hackett, Birmingham, Worcestershire, B45",Semi-Detached,52.381877,-1.991646,4,4,
+"Featherstone Road, Birmingham, West Midlands, B14",Semi-Detached,52.425134,-1.894421,4,4,
+"Broad Street, Birmingham, B16",Apartment,52.476425,-1.9146,3,3,"1,207 sq. ft."
+"Sterling House, Caroline Street",Apartment,52.48562,-1.90734,3,3,"1,130 sq. ft."
+"The Copperworks, Birmingham",Apartment,52.48602,-1.90969,3,3,"1,270 sq. ft."
+The Copperworks,Town House,52.48449,-1.91352,3,3,"1,270 sq. ft."
+"The Copperworks, Birmingham",Apartment,52.4853,-1.91764,3,3,"1,270 sq. ft."
+"Leach Green Lane, Rednal, Birmingham",Detached,52.388916,-2.007529,4,4,"2,704 sq. ft."
+"Martineau Drive, Harborne, Birmingham, B32 2AS",Town House,52.462784,-1.97769,4,4,
+"Sandon Road, Birmingham",End of Terrace,52.47553,-1.96536,4,4,
+"239 Alcester Road, Moseley, Birmingham, B13 8PY",Detached,52.441536,-1.892475,4,4,
+"Dark Lane, Kings Norton",Semi-Detached,52.39287,-1.89724,3,3,
+"Reservoir Road, Cofton Hackett, Birmingham, Worcestershire, B45",Detached,52.376837,-1.997454,3,3,
+"Weeford Drive, Birmingham, B20",Detached,52.523452,-1.933642,4,4,
+"Martineau Drive, Harborne, Birmingham, B32 2AS",Town House,52.462784,-1.97769,4,4,
+"Manor Road North, Edgbaston, Birmingham, B16 9JS",Semi-Detached,52.474457,-1.9483,4,4,
+"FiftySixty, JQ",Apartment,52.48628,-1.90703,2,2,
+"Manor Road North, Edgbaston, Birmingham, B16 9JS",Semi-Detached,52.474457,-1.9483,4,4,
+"The Copperworks, 3 Sloane Street, Birmingham B1 3DZ",Town House,52.483367,-1.913024,3,3,
+"Martineau Gardens, Harborne, Birmingham, B32 2EH",Mews,52.462784,-1.97769,4,4,
+"Birmingham Road,Water Orton,B46 1TL",Detached,52.517857,-1.743507,5,5,
+"Wharfside Street, BIRMINGHAM",Apartment,52.47487,-1.90706,2,2,
+"Grosvenor Road, Harborne, Birmingham",Terraced,52.461311,-1.967931,5,5,
+"Ashtree Court, Birmingham",Detached,52.40512,-1.92279,4,4,
+"Bagnell Road, Birmingham, B13",Detached,52.42963,-1.88583,4,4,
+"Haselor Road, Sutton Coldfield, B73",Semi-Detached,52.545714,-1.849037,5,5,
+"Painswick Road, Birmingham, B28",Semi-Detached,52.42788,-1.84686,5,5,
+"Woodchurch Grange, Sutton Coldfield, B73 5GA",Detached,52.54041,-1.841576,4,4,
+"The Copperworks, Birmingham",Apartment,52.4853,-1.91764,3,3,"1,170 sq. ft."
+The Pressworks,Apartment,52.487o,-1.90674u,2,2,"1,113 sq. ft."
+"Coleshill Road, Birmingham",Semi-Detached,52.49588,-1.81392,5,5,
+"Photographic Works, 37-55 Camden Street, Birmingham, B1",Duplex,52.482846,-1.912942,3,3,
+"Priory House, Gooch Street North",Apartment,52.47117,-1.89647,2,2,
+"Beaufort Drive, Hodge Hill, Birmingham",Semi-Detached,52.49588,-1.81392,5,5,
+"May Lane, Kings Heath, Birmingham, B14",Detached,52.420563,-1.886777,3,3,
+"Castle Hills Drive, Castle Bromwich, Birmingham, B36",Detached,52.503752,-1.791756,4,4,
+"Linden Road, Bournville, Birmingham",Semi-Detached,52.431648,-1.93706,3,3,
+"Alcester Road South, Kings Heath, Birmingham, B14",Detached,52.417702,-1.891357,3,3,
+"Alcester Road South, Birmingham, West Midlands, B14",Semi-Detached,52.424349,-1.892721,4,4,
+"Shawhurst Lane, Birmingham, B47",Semi-Detached,52.390758,-1.877126,5,5,
+"Elwyn Road, Sutton Coldfield, B73 6LB",Detached Bungalow,52.5543,-1.8346u,3,3,
+"High Heath Close, Bournville, Birmingham, B30",Detached,52.421479,-1.944814,4,4,
+"Harrow Road, Birmingham",House,52.445865,-1.93082,5,5,
+"Parkfield Drive, Castle Bromwich",Detached,52.51181,-1.76877,5,5,
+"Dalkeith Road, Sutton Coldfield, B73 6PW",Semi-Detached,52.55121,-1.852945,3,3,
+"New Road, Water Orton, Birmingham",Detached,52.517448,-1.737608,4,4,
+"Foxfield, Northfield, Birmingham",House,52.417697,-1.975694,4,4,
+"Falstone Road, Sutton Coldfield",Semi-Detached,52.55123,-1.85513,3,3,
+"Mulberry Road, Bournville, Birmingham",Semi-Detached,52.421287,-1.949873,3,3,
+"Stanmore Road, Edgbaston, Birmingham",Semi-Detached,52.477966,-1.950589,3,3,
+"Chester Road, Sutton Coldfield",Semi-Detached,52.5416,-1.84543,4,4,
+"Harborne Park Road, Harborne",Detached Bungalow,52.453286,-1.953983,3,3,
+"Court Oak Road, Birmingham",House,52.459915,-1.962954,3,3,
+"Northfield Road, Kings Norton / Bournville, Birmingham",Semi-Detached,52.416175,-1.946955,3,3,
+"Hole Lane, Bournville Village Trust, Northfield, Birmingham, B31",Semi-Detached,52.416075,-1.954819,3,3,
+"Parkfield Drive, Birmingham",Detached,52.51181,-1.76877,5,5,
+"King Edwards Wharf, 25 Sheepcote Street, B16 8AT",Apartment,52.47847,-1.91795,2,2,"1,272 sq. ft."
+"Littleover Avenue, Hall Green",Semi-Detached,52.42571,-1.84319,6,6,
+"East Works Drive, Cofton Hackett, B45 8GX",Detached,52.38231,-1.98688,4,4,
+"Bibsworth Avenue, Moseley, Birmingham, B13",Detached,52.432811,-1.859871,6,6,
+"B4 Fully Managed Apartments, Birmingham",Apartment,52.48789,-1.89481,3,3,
+"B4 Fully Managed Apartments, Birmingham",Apartment,52.48789,-1.89481,3,3,
+"B4 Fully Managed Apartments, Birmingham",Apartment,52.48789,-1.89481,3,3,
+"Heath Road South, Bournville Village Trust, Northfield, Birmingham, B31",Semi-Detached,52.416189,-1.963127,4,4,
+"South Loop Green, Edgbaston",Town House,52.4827,-1.92751,4,4,"1,537 sq. ft."
+"B4 Apartments, Birmingham",Apartment,52.48789,-1.89481,3,3,
+"Outmore Road, Birmingham",End of Terrace,52.47641,-1.78176,3,3,
+"Beacon Hill, Rednal, Birmingham, B45 9QP",Detached,52.388351,-2.018822,4,4,
+"Sherlock Street, Birmingham",House,52.4683,-1.89618,3,3,
+"Priory House Lofts, Gooch Street North, Birmingham, B5",Duplex,52.472018,-1.897175,3,3,
+"Dyas Avenue, Great Barr, Birmingham, B42 1HL",Terraced,52.536144,-1.928129,7,7,
+"B1 City Centre, Birmingham",Apartment,52.48341,-1.91146,3,3,
+"Somerdale Road, Bournville Village Trust, Northfield, Birmingham, B31",Semi-Detached,52.41765,-1.949991,3,3,
+The Copperworks,Town House,52.48449,-1.91352,3,3,"1,150 sq. ft."
+"The Copperworks, Birmingham",Apartment,52.4853,-1.91764,3,3,"1,145 sq. ft."
+"The Copperworks, Birmingham",Apartment,52.4853,-1.91764,3,3,"1,145 sq. ft."
+"Marshall Street, Birmingham, West Midlands, B1",Flat,52.473949,-1.903963,2,2,
+"Shadwell Street, Birmingham, B4",Flat,52.48709,-1.89717,4,4,903 sq. ft.
+"B4 Apartments, Birmingham",Apartment,52.48789,-1.89481,3,3,
+"North Gate, Birmingham",End of Terrace,52.463882,-1.955487,3,3,
+"Birmingham, B4",Flat,52.48709,-1.89717,3,3,903 sq. ft.
+"Woodland Road, Birmingham, B31",Semi-Detached,52.410215,-1.963122,4,4,
+"Dale Road, Birmingham",House,52.445693,-1.934967,5,5,
+"Warwards Lane, Birmingham",Semi-Detached,52.436973,-1.925194,8,8,
+"Westridge Road,Birmingham,B13 0EB",Semi-Detached,52.423794,-1.862211,5,5,"1,883 sq. ft."
+"Beech Road, Harborne, Birmingham, B17 9TD",Mews,52.458912,-1.967269,3,3,
+"Stechford Lane, Birmingham",Semi-Detached,52.49041,-1.81689,5,5,
+Osborne House,Apartment,52.48476,-1.91116,3,3,"1,334 sq. ft."
+"New Street, Birmingham, B36",Semi-Detached,52.504239,-1.78284,4,4,
+"Dark Lane, Hollywood",Semi-Detached,52.395877,-1.886265,3,3,
+"Stirling Road, Sutton Coldfield",Semi-Detached,52.54979,-1.85307,3,3,
+"The Roundabout, Northfield, Birmingham",End of Terrace,52.40029,-1.98879,3,3,
+"Gibson Road, Birmingham",Detached,52.50661,-1.9176,5,5,
+"High Brow, Harborne, Birmingham, B17 9EW",Terraced,52.46385,-1.957093,3,3,
+"Halton Road, Sutton Coldfield, B73 6NZ",Semi-Detached,52.55365,-1.854957,3,3,
+"Beaumont Road, Bournville, Birmingham, B30",Terraced,52.423561,-1.934258,4,4,
+"Highbridge Road, Sutton Coldfield, B73 5QU",End of Terrace,52.547142,-1.838054,3,3,
+"Brookvale Mews, Birmingham",House of Multiple Occupation,52.444519,-1.913845,5,5,
+"Arden Road, Acocks Green, Birmingham, B27",Semi-Detached,52.45105,-1.82912,6,6,
+"Antrobus Road, Sutton Coldfield, B73 5EN",Semi-Detached,52.54646,-1.843278,3,3,
+"Chestnut Drive, Erdington, Birmingham, B24 0DP",Detached,52.524597,-1.820892,3,3,
+"Sherborne Wharf, Birmingham",Apartment,52.47676,-1.91692,,,"1,410 sq. ft."
+"Green Lanes, Wylde Green, Sutton Coldfield",House,52.539775,-1.829818,3,3,
+"Devereux Close, Birmingham, B36",Detached,52.50661,-1.78043,4,4,
+"Wheelwright Road, Erdington, Birmingham, B24 8PJ",Semi-Detached,52.512154,-1.846979,6,6,
+"Hinstock Road, Birmingham",Semi-Detached,52.51084,-1.92908,6,6,
+"Highbridge Road, Sutton Coldfield, West Midlands, B73",End of Terrace,52.547206,-1.83736,3,3,
+"Raddlebarn Road, Birmingham",House,52.439109,-1.926917,5,5,
+"Green Meadow Road, Bournville Village Trust, Selly Oak, Birmingham, B29",Semi-Detached,52.431638,-1.963596,3,3,
+"Edward Road, Balsall Heath, Birmingham, B12",Terraced,52.457548,-1.891487,,,
+"Holywell Lane, Rednal, Birmingham",House,52.390014,-2.030697,7,7,
+"High Street-9.4% Rental Yield -£42,500 Rental Income, Erdington, Birmingham, B23",,52.52244,-1.84093,,,
+"Hubert Road, Birmingham",House,52.442916,-1.934108,5,5,
+"Markham Road, Sutton Coldfield, B73",Detached Bungalow,52.555521,-1.86222,3,3,
+"Highbridge Road, Sutton Coldfield, West Midlands, B73",Bungalow,52.547206,-1.83736,3,3,
+"May Lane, Kings Heath, Birmingham, B14",Detached,52.419441,-1.882994,3,3,
+"Gravelly Hill North, Erdington, Birmingham",Apartment,52.52065,-1.84624,1,1,
+"Charlotte Street, Birmingham, West Midlands, B3",Flat,52.484168,-1.905891,2,2,
+"The Lightwell, 61 Cornwall Street, B3 2EE",Apartment,52.48241,-1.901904,2,2,"1,033 sq. ft."
+"Moor Pool Avenue, Birmingham",House,52.46202,-1.954161,3,3,
+"Bournbrook Road, Birmingham, West Midlands, B29",Semi-Detached,52.44321,-1.92678,5,5,
+"Rose Hill, Lickey, B45 8RR",Semi-Detached,52.37888,-2.00871,3,3,
+"East Works Drive, Cofton Hackett, B45 8GX",Detached,52.38231,-1.98688,3,3,
+"Sydenham Place, Jewellery Quarter, B1",Penthouse,52.486138,-1.913678,2,2,"1,280 sq. ft."
+"Sydenham Place, 26B Tenby Street , Jewellery Quarter",Penthouse,52.48575,-1.91351,3,3,"1,281 sq. ft."
+"Sydenham Place, Tenby Street, Jewellery Quarter, B1",Penthouse,52.48575,-1.91351,3,3,
+"Regent Place, Birmingham, B1",Apartment,52.48602,-1.90969,2,2,
+"Birmingham Buy to Let Investment, Birmingham",Apartment,52.48367,-1.89261,3,3,
+"College Road, Sutton Coldfield, B73",Semi-Detached,52.548253,-1.852155,3,3,
+"Birmingham Buy to Let Investment, Birmingham",Apartment,52.48367,-1.89261,3,3,
+"Birmingham Buy to Let Investment, Birmingham",Apartment,52.48367,-1.89261,3,3,
+"Edenhall Road, Quinton, Birmingham, West Midlands",Link Detached House,52.46028,-2.001554,4,4,
+"Dunchurch Crescent, Sutton Coldfield",Detached Bungalow,52.5554,-1.867179,3,3,
+"Arden Road, Birmingham, B27",Semi-Detached,52.450793,-1.825776,5,5,
+"Anderton Road, Birmingham, B11",Terraced,52.461582,-1.868489,6,6,
+"Laburnum Way, Northfield, Birmingham, B31",Detached,52.401157,-1.971613,3,3,
+"Maple Road, Rednal, Birmingham",Detached,52.38977,-2.02067,4,4,
+"Barnsley Road, Birmingham",Semi-Detached,52.47454,-1.965902,4,4,
+"Sherborne Lofts, 33 Grosvenor Street West, Brindley Place",Apartment,52.47676,-1.91692,2,2,"1,220 sq. ft."
+"Avery Road, Sutton Coldfield",Detached,52.5527,-1.862759,4,4,
+"Chestnut Drive, Erdington, Birmingham, B24 0DN",Detached,52.525822,-1.822052,3,3,
+"Merlin Way, Birmingham",Terraced,52.521957,-1.785633,1,1,
+"Southam Close, Hall Green",Semi-Detached Bungalow,52.43391,-1.85287,4,4,
+Reliance Works,Town House,52.48692,-1.90865,2,2,"1,152 sq. ft."
+"Welford Road, Sutton Coldfield, B73 5DP",Semi-Detached,52.54646,-1.850024,4,4,
+"Lordswood Road, Harborne, Birmingham, B17 9BL",End of Terrace,52.462814,-1.963924,3,3,
+"Quarry Lane, Birmingham",Detached,52.407604,-1.967748,3,3,
+"The Royal Arch (Mailbox), Wharfside Street, Birmingham, B1 1RG",Penthouse,52.475782,-1.904659,2,2,"1,355 sq. ft."
+"Tenby Street North, Birmingham, B1",Duplex,52.48602,-1.91499,3,3,"1,045 sq. ft."
+Treasure House,Duplex,52.48602,-1.91499,3,3,"1,045 sq. ft."
+"Apartment 29, Treasure House, Carver Street, B1 3EG",Duplex,52.48602,-1.91499,3,3,"1,045 sq. ft."
+"Leasowes Road, Birmingham",House,52.440059,-1.888789,3,3,
+"Madison Avenue, Hodge Hill, Birmingham",Semi-Detached,52.498378,-1.811571,3,3,
+"Barnsbury Avenue, Sutton Coldfield",Semi-Detached Bungalow,52.53287,-1.82156,4,4,
+"Britwell Road, Boldmere",Semi-Detached,52.54842,-1.83627,3,3,
+"Oaklands Way, Northfield, Birmingham, B31 5EA",Detached,52.402393,-2.001161,4,4,
+"Addison Road, Kings Heath, Birmingham, B14",Terraced,52.43116,-1.88715,5,5,
+"Barrows Lane, Yardley, Birmingham",Semi-Detached,52.466869,-1.802118,4,4,
+"Steyning Road , South Yardley",Semi-Detached,52.45677,-1.80688,3,3,
+"Yardley Wood Road, Birmingham, B13",Detached,52.449567,-1.873145,6,6,
+"Northcroft Way, Birmingham, B23",Link Detached House,52.521745,-1.854603,5,5,
+"Ravenhurst Road, Harborne, Birmingham, B17 9DR",Terraced,52.461334,-1.954101,3,3,
+"All Saints Road, Kings Heath, Birmingham, West Midlands, B14",Semi-Detached,52.431546,-1.894417,4,4,
+"Hillyfields Road, Birmingham, B23",Detached,52.523418,-1.866021,5,5,
+"Fast Pits Road, Birmingham",End of Terrace,52.46668,-1.82303,5,5,
+"1 Gabriel Place, Church Road, Birmingham, B15",Retirement Property,52.46661,-1.9218,2,2,
+"Woodleaves, Hollywood",Semi-Detached,52.397o,-1.88547u,3,3,
+"1 Gabriel Place, Church Road, Birmingham, B15",Retirement Property,52.46661,-1.9218,2,2,
+"Heathfield Road, Kings Heath, Birmingham",Terraced,52.434719,-1.889386,4,4,
+"Heath Road South, Bournville Village Trust, Northfield, Birmingham, B31",Semi-Detached,52.416265,-1.961669,3,3,
+"Cadbury Road, Birmingham, West Midlands, B13",End of Terrace,52.449459,-1.874108,5,5,
+"Grove Road, Birmingham, B14",Semi-Detached,52.426903,-1.901387,3,3,
+"Radnor Road, Handsworth",Semi-Detached,52.50364,-1.91643,6,6,
+"Bull Street, Harborne, Birmingham, B17 0HH",Terraced,52.458503,-1.947051,3,3,
+"East Works Drive, Cofton Hackett, B45 8GX",Semi-Detached,52.38231,-1.98688,4,4,
+"Lordswood Road, Harborne",Semi-Detached,52.461729,-1.963033,3,3,
+"Ravenhurst Road, Harborne, Birmingham, B17 9DR",Terraced,52.461333,-1.954102,3,3,
+"New Road, Hollywood, Birmingham",Semi-Detached,52.39807,-1.884u,3,3,
+The Pressworks,Apartment,52.487o,-1.90674u,2,2,861 sq. ft.
+"Madison Avenue, Birmingham, West Midlands, B36",Semi-Detached,52.49831,-1.81185,5,5,
+"Hamstead Hall Road,Handsworth Wood,Birmingham,B20 1HT",Detached,52.521305,-1.9334,5,5,"1,363 sq. ft."
+"Hallot Close, Birmingham, B23 5YW",Detached,52.54033,-1.853835,4,4,
+"Alcester Drive, Sutton Coldfield, B73 6PY",Detached,52.55512,-1.859596,4,4,
+"Old Birmingham Road, Lickey, B45 8ES",Semi-Detached,52.37215,-2.015107,3,3,
+"Orchard Road, Birmingham, B24",Terraced,52.526155,-1.831225,4,4,
+"Station Road, Birmingham, B33",Semi-Detached,52.480809,-1.808505,6,6,
+"Estria Road, Edgbaston, Birmingham, B15",House,52.466423,-1.914366,3,3,
+89 Ravenhurst Road,Terraced,52.461559,-1.954088,3,3,947 sq. ft.
+"Citygreens, Sheldon, Birmingham",Penthouse,52.45381,-1.788908,3,3,
+"Greenfield Road, Harborne, Birmingham",Apartment,52.45781,-1.94639,3,3,
+"Pershore Road, Selly Park, Birmingham, West Midlands, B29",Bungalow,52.438629,-1.91656,3,3,
+"Trinity Road, Aston, Birmingham, B6 6HL",Terraced,52.508686,-1.888275,2,2,
+"Snow Hill Wharf, Shadwell Street, Birmingham, B4",Apartment,52.48412,-1.89585,2,2,695 sq. ft.
+"Fugelmere Close, Harborne, Birmingham",End of Terrace,52.46447,-1.97332,3,3,
+"Greenside Road, Erdington",Detached,52.52799,-1.82293,3,3,
+"Sandhurst Avenue, Birmingham, West Midlands, B36",Semi-Detached,52.498018,-1.814247,3,3,
+"Coventry Road, Sheldon, Birmingham",Semi-Detached,52.451301,-1.766932,4,4,
+"Alcester Drive, Sutton Coldfield, B73 6PY",Detached,52.555321,-1.859528,4,4,
+"Belgravia Close, Edgbaston, B5",Terraced,52.464882,-1.89649,3,3,
+"Snow Hill Wharf, Shadwell Street, Birmingham, B4",Apartment,52.48412,-1.89585,2,2,770 sq. ft.
+"1 - 4 Great Hampton Street, Birmingham, B18 6AQ",Apartment,52.48907,-1.90747,2,2,834 sq. ft.
+Reliance Works,Apartment,52.48692,-1.90865,2,2,"1,136 sq. ft."
+Princip Luxury Apartments,Apartment,52.48709,-1.89717,2,2,693 sq. ft.
+"Snow Hill Wharf, Shadwell Street, Birmingham, B4",Apartment,52.48412,-1.89585,2,2,758 sq. ft.
+"Moor Pool Avenue, Birmingham",House,52.46228,-1.954298,2,2,
+"Lickey Coppice, Cofton Hackett, Birmingham, Worcestershire, B45",Detached,52.379481,-2.000543,3,3,
+"Colomore Building, Snow Hill Wharf, Birmingham, B4",Flat,52.48709,-1.89717,2,2,687 sq. ft.
+"1 - 4 Great Hampton Street, Birmingham, B18 6AQ",Apartment,52.48907,-1.90747,2,2,805 sq. ft.
+"Morjon Drive, Birmingham",Semi-Detached,52.54941,-1.93286,4,4,
+"The Regent, Snow Hill Wharf, Shadwell Street, Birmingham, B4",Apartment,52.486601,-1.897917,2,2,
+"1 - 4 Great Hampton Street, Birmingham, B18 6AQ",Apartment,52.48907,-1.90747,2,2,747 sq. ft.
