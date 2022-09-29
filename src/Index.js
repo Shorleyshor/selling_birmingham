@@ -18,15 +18,14 @@ new Handsontable(example, {
   height: 450,
   colWidths: [140, 126, 192, 100, 100, 90, 90, 110, 97],
   colHeaders: [
-    "Company name",
-    "Country",
-    "Name",
-    "Sell date",
-    "Order ID",
-    "In stock",
-    "Qty",
-    "Progress",
-    "Rating"
+    "Address",
+    "Price",
+    "Property_Type", 
+    "Latitude",
+    "Longitude", 
+    "Bedrooms",
+    "Bathrooms",
+    "Size"
   ],
   columns: [
     { data: 1, type: "text" },
