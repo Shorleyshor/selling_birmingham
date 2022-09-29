@@ -55,7 +55,7 @@ d3.csv("https://raw.githubusercontent.com/Shorleyshor/selling_birmingham/cf8609a
   var x = d3.scaleLinear()
     .domain([0, 20])
     .range([ 0, width ]);
-  svg.append("g")
+  svg.append("Price")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
 
@@ -63,11 +63,11 @@ d3.csv("https://raw.githubusercontent.com/Shorleyshor/selling_birmingham/cf8609a
   var y = d3.scaleLinear()
     .domain([0, 20])
     .range([ height, 0]);
-  svg.append("g")
+  svg.append("Bedroom")
     .call(d3.axisLeft(y));
 
   // Add dots
-  svg.append('g')
+  svg.append('Price')
     .selectAll("dot")
     .data(data)
     .enter()
