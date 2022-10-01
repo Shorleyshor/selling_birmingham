@@ -20,4 +20,29 @@
         width: 100%;
         left: 0;
     }
-}
+
+    .graph1 {
+        display: block;
+        padding: 10px;
+        margin-bottom: 150px; 
+        text-align: justify;
+    }
+    .graph2 {
+        display: block;
+        padding: 10px;
+        margin-bottom: 150px;
+        text-align: justify;
+    }
+    .graph3 {
+        display: block;
+        padding: 10px;
+        margin-bottom: 150px;
+        text-align: justify;
+    }
+    
+    .graph4 {
+        display: block;
+        padding: 10px;
+        margin-bottom: 150px;
+        text-align: justify;
+    }
