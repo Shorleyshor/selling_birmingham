@@ -1,5 +1,3 @@
-let data = 
-
 [
   {
     "Address": "Aldridge Road, Great Barr, Birmingham B44 8NX",
@@ -4242,3 +4240,16 @@ let data =
     "Size_sqft": null
   }
 ];
+
+let trace1 = {
+  x: [],
+  y: [],
+  mode: "lines"
+};
+
+data.forEach(function(val) {
+  trace1.x.push(val["Price"]);
+  trace1.y.push(val["Bedrooms"]);
+  
+});
+Plotly.newPlot('Bedroom/Price_scatter_graphDiv', [trace1]);
