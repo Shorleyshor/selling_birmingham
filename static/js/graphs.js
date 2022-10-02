@@ -4293,7 +4293,7 @@ Plotly.newPlot('BedroomsPriceScatter', [trace2],layout2);
   let trace3 = {
     x: [],
     y: [],
-    type: 'Bar',
+    type: 'bar',
   };
   data.forEach(function(val) {
     trace3.x.push(val["Price"]);
