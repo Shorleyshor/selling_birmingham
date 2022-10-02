@@ -35,6 +35,7 @@ KEY CONCLUSIONS/ RECOMMENDATIONS
 •	For long term invest buy land and develop over time.
 •	Buying property and investing in Birmingham would yield a high rate of return.
 
+![image](https://user-images.githubusercontent.com/107362585/193480903-879b228e-69b1-4205-acc9-a04875d07d3c.png)
 
 
 
