@@ -4240,19 +4240,68 @@ var data =
     "Size_sqft": null
   }]
 
-  //BedroomsPriceLine
-  let trace1 = {
+ //BathroomsPriceScatter 
+ let trace1 = {
+  x: [],
+  y: [],
+  mode: 'markers',
+  type: 'scatter',
+};
+data.forEach(function(val) {
+  trace1.x.push(val["Price"]);
+  trace1.y.push(val["Bathrooms"]);
+});
+var layout1 = {
+  title: 'Bathrooms Vs Price Scatter Graph',
+  xaxis: {
+    title: 'House Price in pounds (£) ',
+    showgrid: false,
+  },
+  yaxis: {
+    title: 'Bathrooms',
+    showline: false
+  }
+};
+Plotly.newPlot('BathroomsPriceScatter', [trace1],layout1);
+
+
+//BedroomsPriceScatter
+let trace2 = {
+  x: [],
+  y: [],
+  mode: 'markers',
+  type: 'scatter',
+}; 
+data.forEach(function(val) {
+  trace2.x.push(val["Price"]);
+  trace2.y.push(val["Bedrooms"]);
+});
+var layout2 = {
+  title: 'Bedrooms Vs Price Scatter Graph',
+  xaxis: {
+    title: 'House Price In pounds (£) ',
+    showgrid: false,
+  },
+  yaxis: {
+    title: 'Bedrooms',
+    showline: false
+  }
+};
+Plotly.newPlot('BedroomsPriceScatter', [trace2],layout2);
+
+ //BedroomsPriceLine
+  let trace3 = {
     x: [],
     y: [],
     type: 'Line',
     text: ['Property_Type'],
   };
   data.forEach(function(val) {
-    trace1.x.push(val["Price"]);
-    trace1.y.push(val["Bedrooms"]);
-    trace1.text.push(val["Property_Type"])
+    trace3.x.push(val["Price"]);
+    trace3.y.push(val["Bedrooms"]);
+    trace3.text.push(val["Property_Type"])
   });
-  var layout = {
+  var layout3 = {
     title: 'Bedrooms Vs Price Line Graph',
     xaxis: {
       title: 'House Price In pounds (£) ',
@@ -4263,22 +4312,22 @@ var data =
       showline: false
     }
   };
-  Plotly.newPlot('BedroomsPriceLine', [trace1],layout);
+  Plotly.newPlot('BedroomsPriceLine', [trace3],layout3);
 
 
   //BathroomsPriceLine
-  let trace2 = {
+  let trace4 = {
     x: [],
     y: [],
     type: 'Line',
     text: ['Property_Type'],
   };
   data.forEach(function(val) {
-    trace2.x.push(val["Price"]);
-    trace2.y.push(val["Bathrooms"]);
-    trace2.text.push(val["Property_Type"])
+    trace4.x.push(val["Price"]);
+    trace4.y.push(val["Bathrooms"]);
+    trace4.text.push(val["Property_Type"])
   });
-  var layout2 = {
+  var layout4 = {
     title: 'Bathrooms Vs Price Line Graph',
     xaxis: {
       title: 'House Price In pounds (£) ',
@@ -4289,4 +4338,4 @@ var data =
       showline: false
     }
   };
-  Plotly.newPlot('BathroomsPriceLine', [trace2],layout2);
+  Plotly.newPlot('BathroomsPriceLine', [trace4],layout4);

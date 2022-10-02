@@ -4240,21 +4240,16 @@ var data =
     "Size_sqft": null
   }]
 
-
-
-  
  //BathroomsPriceScatter 
  let trace1 = {
   x: [],
   y: [],
   mode: 'markers',
   type: 'scatter',
-  text: ['Property_Type'],
 };
 data.forEach(function(val) {
   trace1.x.push(val["Price"]);
   trace1.y.push(val["Bathrooms"]);
-  trace1.text.push(val["Property_Type"])
 });
 var layout1 = {
   title: 'Bathrooms Vs Price Scatter Graph',
@@ -4267,8 +4262,7 @@ var layout1 = {
     showline: false
   }
 };
-Plotly.newPlot('BedroomPriceScatter', [trace1],layout1);
-
+Plotly.newPlot('BathroomsPriceScatter', [trace1],layout1);
 
 
 //BedroomsPriceScatter
@@ -4277,12 +4271,10 @@ let trace2 = {
   y: [],
   mode: 'markers',
   type: 'scatter',
-  text: ['Property_Type'],
 }; 
 data.forEach(function(val) {
   trace2.x.push(val["Price"]);
   trace2.y.push(val["Bedrooms"]);
-  trace2.text.push(val["Property_Type"])
 });
 var layout2 = {
   title: 'Bedrooms Vs Price Scatter Graph',
