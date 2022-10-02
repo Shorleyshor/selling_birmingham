@@ -1,4 +1,4 @@
-console.log(dropped_data)
+console.log(data)
 
 let trace1 = {
   x: [],
