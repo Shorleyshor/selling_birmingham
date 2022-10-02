@@ -4243,7 +4243,7 @@ var data =
   let trace1 = {
     x: [],
     y: [],
-    type: 'Line',,
+    type: 'Line',
     text: ['Property_Type'],
   };
   
