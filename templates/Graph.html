@@ -10,8 +10,8 @@
     <link href="static/css/style.css" rel="stylesheet">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="path/to/chartjs/dist/chart.js"></script>
-    <link rel="stylesheet" href="http://anijs.github.io/lib/anicollection/anicollection.css">
-    <script src="https://anijs.github.io/lib/anijs/anijs-min.js"></script> 
+    <script src="//d3js.org/d3.v3.min.js"></script>
+
 </head>
 
 <body>
@@ -36,25 +36,9 @@
   <h1>Graphs</h1>
 </header>
 
-<div style="width: 100%;">
-  <div style="width: 50%; height: 450px; float: left; background-color: #00a8a8; border: 5px soild #000000; padding-top:20px; padding-left:20px; padding-right:20px;"> 
-    Bathrooms vs Price Scatter Grpah  
-  </div>
-
-  <div style="width: 50%; height: 450px; float: left; background-color: #00a8a8; border: 5px soild #000000; padding-top:20px; padding-left:20px; padding-right:20px;">
-    Bathrooms vs Price Line Grpah
-  </div>
-</div>
-
-<div style="width: 100%;">
-  <div style="width: 50%; height: 450px; float: left; background-color: #00a8a8; border: 5px soild #000000; padding-top:20px; padding-left:20px; padding-right:20px;">
-    Bedroom vs Price Scatter Grpah 
-  </div>
-
-<div style="width: 50%; height: 450px; float: left; background-color: #00a8a8; border: 5px soild #000000; padding-top:20px; padding-left:20px; padding-right:20px;">
-    Bedroom vs Price Line Grpah
-  </div>
-</div>
+<div id="Bedroom Vs Price Sactter Graph"></div>
+    <script src="dropped_data.js"></script>
+    <script src="Bedroom Vs Price Sactter Graph.js"></script>
 
 <div class="container-fluid bg-dark text-light mt-5" data-anijs="if: mouseover, on: body, do: swing animated">
     <div class="container py-5">
