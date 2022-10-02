@@ -4289,51 +4289,5 @@ var layout2 = {
 };
 Plotly.newPlot('BedroomsPriceScatter', [trace2],layout2);
 
- //BedroomsPriceLine
-  let trace3 = {
-    x: [],
-    y: [],
-    type: 'bar',
-  };
-  data.forEach(function(val) {
-    trace3.x.push(val["Price"]);
-    trace3.y.push(val["Bedrooms"]);
-  });
-  var layout3 = {
-    title: 'Bedrooms Vs Price Line Graph',
-    xaxis: {
-      title: 'House Price In pounds (£) ',
-      showgrid: false,
-    },
-    yaxis: {
-      title: 'Bedrooms',
-      showline: false
-    }
-  };
-  Plotly.newPlot('BedroomsPriceLine', [trace3],layout3);
 
 
-  //BathroomsPriceLine
-  let trace4 = {
-    x: [],
-    y: [],
-    type: 'Line',
-    text: ['Property_Type'],
-  };
-  data.forEach(function(val) {
-    trace4.x.push(val["Price"]);
-    trace4.y.push(val["Bathrooms"]);
-    trace4.text.push(val["Property_Type"])
-  });
-  var layout4 = {
-    title: 'Bathrooms Vs Price Line Graph',
-    xaxis: {
-      title: 'House Price In pounds (£) ',
-      showgrid: false,
-    },
-    yaxis: {
-      title: 'Bathrooms',
-      showline: false
-    }
-  };
-  Plotly.newPlot('BathroomsPriceLine', [trace4],layout4);
