@@ -4241,4 +4241,4 @@ let data =
     "Bathrooms": "8",
     "Size_sqft": null
   }
-]
+];
