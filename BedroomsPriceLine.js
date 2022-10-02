@@ -4243,8 +4243,7 @@ var data =
   let trace1 = {
     x: [],
     y: [],
-    mode: 'markers',
-    type: 'scatter',
+    type: 'Line',
     text: ['Property_Type'],
   };
   
@@ -4255,7 +4254,7 @@ var data =
   });
   
   var layout = {
-    title: 'Bedrooms Vs Price Scatter Graph',
+    title: 'Bedrooms Vs Price Line Graph',
     xaxis: {
       title: 'House Price In pounds (£) ',
       showgrid: false,
@@ -4266,4 +4265,4 @@ var data =
     }
   };
   
-  Plotly.newPlot('BedroomsPriceScatter', [trace1],layout);
+  Plotly.newPlot('BedroomsPriceLine', [trace1],layout);

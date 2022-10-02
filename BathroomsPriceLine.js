@@ -1,5 +1,5 @@
-[
-  {
+var data =
+    [{
     "Address": "Aldridge Road, Great Barr, Birmingham B44 8NX",
     "Price": "230000",
     "Property_Type": "Semi-Detached",
@@ -4238,18 +4238,31 @@
     "Bedrooms": "8",
     "Bathrooms": "8",
     "Size_sqft": null
-  }
-];
+  }]
 
-let trace1 = {
-  x: [],
-  y: [],
-  mode: "lines"
-};
-
-data.forEach(function(val) {
-  trace1.x.push(val["Price"]);
-  trace1.y.push(val["Bedrooms"]);
+  let trace1 = {
+    x: [],
+    y: [],
+    type: 'Line',,
+    text: ['Property_Type'],
+  };
   
-});
-Plotly.newPlot('Bedroom/Price_scatter_graphDiv', [trace1]);
+  data.forEach(function(val) {
+    trace1.x.push(val["Price"]);
+    trace1.y.push(val["Bathrooms"]);
+    trace1.text.push(val["Property_Type"])
+  });
+  
+  var layout = {
+    title: 'Bathrooms Vs Price Line Graph',
+    xaxis: {
+      title: 'House Price in pounds (£) ',
+      showgrid: false,
+    },
+    yaxis: {
+      title: 'Bathrooms',
+      showline: false
+    }
+  };
+  
+  Plotly.newPlot('BathroomsPriceLine', [trace1],layout);
